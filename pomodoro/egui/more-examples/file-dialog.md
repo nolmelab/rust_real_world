@@ -14,7 +14,7 @@ rfd = "0.11.3"
 
 그리고 잘 실행됩니다.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## 코드 분석
 

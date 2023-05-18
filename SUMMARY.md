@@ -9,6 +9,7 @@
     * [More Examples](pomodoro/egui/more-examples/README.md)
       * [hello world par](pomodoro/egui/more-examples/hello-world-par.md)
       * [file dialog](pomodoro/egui/more-examples/file-dialog.md)
+      * [custom font](pomodoro/egui/more-examples/custom-font.md)
   * [ui 구성](pomodoro/ui.md)
 * [findall](findall.md)
 * [rollo 분석](rollo.md)
